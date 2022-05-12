@@ -1,0 +1,2 @@
+me/usuario/androidApp/BuildConfig.java
+ me.usuario.androidApp.BuildConfig
